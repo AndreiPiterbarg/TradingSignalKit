@@ -1,4 +1,4 @@
-#TradingSignalKit
+# TradingSignalKit
 
 A compact toolkit for building and testing trading **indicators**, **signals**, and **stop-loss** logic with simple **backtesting**.
 
